@@ -1,0 +1,16 @@
+
+.validate-btn{
+    margin-bottom: 5px;
+    float: right;
+}
+
+.editor{
+    display: block;
+    margin-top: 80px;
+    
+}
+
+.CodeMirror { min-height: 450px;}
+.h4{
+    text-align: center;
+}

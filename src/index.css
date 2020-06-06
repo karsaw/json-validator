@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.main-container {
+  margin-top: 40px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+
+@import '../node_modules/codemirror/lib/codemirror.css';
+@import '../node_modules/codemirror/theme/material.css';
